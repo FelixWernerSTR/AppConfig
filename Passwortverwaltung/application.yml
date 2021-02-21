@@ -131,6 +131,8 @@ server:
 info:
   # Comma separated list of profiles that will trigger the ribbon to show
   display-ribbon-on-profiles: 'dev'
+  foo: bar1
+  someList: [2, 3, 7]
 
 # ===================================================================
 # JHipster specific properties
@@ -173,8 +175,5 @@ jhipster:
 
   application:
 	myProperty: myValue
-	
-info:
-  foo: bar1
-  someList: [2, 3, 7]
+
 	
