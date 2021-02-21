@@ -175,6 +175,6 @@ jhipster:
 	myProperty: myValue
 	
 info:
-  foo: bar
+  foo: bar1
   someList: [2, 3, 7]
 	
